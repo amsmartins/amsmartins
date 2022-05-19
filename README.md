@@ -54,14 +54,14 @@
 
 
 <!--  GIF -->
-<img align="left" width="376" height="362" style="border-radius:30px;" src="https://github.com/amsmartins/amsmartins/raw/main/assets/ahagon-umiko_code.gif">
+<img align="left" width="356" height="342" style="border-radius:30px;" src="https://github.com/amsmartins/amsmartins/raw/main/assets/ahagon-umiko_code.gif">
     
     
 <!-- STATS E GIF -->
 <div align="right">
 <a href="https://github.com/amsmartins/github-readme-stats">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amsmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="amsmartins's github stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsmartins&layout=compact&langs_count=7&theme=tokyonight&show_icons=true" alt="amsmartins's github stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amsmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="amsmartins's github stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsmartins&layout=compact&langs_count=7&theme=tokyonight&show_icons=true" alt="amsmartins's github stats"/>
 </div><br><br>
 
 
