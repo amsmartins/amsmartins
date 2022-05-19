@@ -4,7 +4,7 @@
 
 <!-- INTRO -->
 <h1 align="center">Olá! Sou Anyla Martins! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<!-- <h3 align="center">Uma brasileira apaixonada por tecnologia</h3> -->
+<h3 align="center">Uma brasileira apaixonada por tecnologia</h3>
 
 
 <!-- CONTATO -->
@@ -54,11 +54,11 @@
 
 
 <!--  GIF -->
-<img align="left" width="326" height="312" style="border-radius:30px;" src="https://github.com/amsmartins/amsmartins/raw/main/assets/ahagon-umiko_code.gif">
+<img align="right" width="326" height="312" style="border-radius:30px;" src="https://github.com/amsmartins/amsmartins/raw/main/assets/ahagon-umiko_code.gif">
     
     
 <!-- STATS E GIF -->
-<div align="right">
+<!-- <div align="left"> -->
 <a href="https://github.com/amsmartins/github-readme-stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amsmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="amsmartins's github stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsmartins&layout=compact&langs_count=7&theme=tokyonight&show_icons=true" alt="amsmartins's github stats"/>
@@ -67,5 +67,4 @@
 
 <!-- VISITAS -->
 <br><br>
-<img align="center" src="https://komarev.com/ghpvc/?username=amsmartinse&color=red&style=plastic" alt="amsmartins"/>
 
