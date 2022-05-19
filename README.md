@@ -58,13 +58,14 @@
     
     
 <!-- STATS E GIF -->
-<!-- <div align="left"> -->
+<div align="left">
 <a href="https://github.com/amsmartins/github-readme-stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amsmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="amsmartins's github stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsmartins&layout=compact&langs_count=7&theme=tokyonight&show_icons=true" alt="amsmartins's github stats"/>
-</div><br><br>
+</div>
+<br><br>
 
 
 <!-- VISITAS -->
-<br><br>
+<img align="center" src="https://komarev.com/ghpvc/?username=amsmartinse&color=blue&style=plastic" alt="amsmartins"/>
 
