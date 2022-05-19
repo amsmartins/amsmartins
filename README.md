@@ -54,7 +54,7 @@
 
 
 <!--  GIF -->
-<img align="left" width="356" height="342" style="border-radius:30px;" src="https://github.com/amsmartins/amsmartins/raw/main/assets/ahagon-umiko_code.gif">
+<img align="left" width="326" height="312" style="border-radius:30px;" src="https://github.com/amsmartins/amsmartins/raw/main/assets/ahagon-umiko_code.gif">
     
     
 <!-- STATS E GIF -->
