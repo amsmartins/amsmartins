@@ -54,12 +54,12 @@
 
 
 <!--  GIF -->
-<div style="display: block">
+<div style="display: block" align="center">
 <img align="right" width="280" height="255" style="border-radius:30px;" src="https://github.com/amsmartins/amsmartins/raw/main/assets/ahagon-umiko_code.gif"/>
     
 <!-- STATS E GIF -->
-<p><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=amsmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="amsmartins's github stats"/></p>
- <p><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsmartins&layout=compact&langs_count=7&theme=tokyonight&show_icons=true" alt="amsmartins's github stats"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=amsmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="amsmartins's github stats"/></p>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsmartins&layout=compact&langs_count=7&theme=tokyonight&show_icons=true" alt="amsmartins's github stats"/></p>
 </div>
 <br><br>
 
