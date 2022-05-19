@@ -50,19 +50,21 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div> <br> <br> <br>
+</div>
 
+<br><br><br>
 
 <!--  GIF -->
-<div style="display: block" align="center">
-<img align="right" width="280" height="255" style="border-radius:30px;" src="https://github.com/amsmartins/amsmartins/raw/main/assets/ahagon-umiko_code.gif"/>
-    
-<!-- STATS E GIF -->
-<p><img src="https://github-readme-stats.vercel.app/api?username=amsmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="amsmartins's github stats"/></p>
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsmartins&layout=compact&langs_count=7&theme=tokyonight&show_icons=true" alt="amsmartins's github stats"/></p>
-</div>
-<br><br>
+<div style="display: inline_block">    
+<img align="right" width="290" height="265" src="https://github.com/amsmartins/amsmartins/raw/main/assets/ahagon-umiko_code.gif"/>
 
+<!-- STATS-->
+<p><img src="https://github-readme-stats.vercel.app/api?username=amsmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="amsmartins's github stats"/></p>
+    
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsmartins&layout=compact&langs_count=7&theme=tokyonight&show_icons=true" alt="amsmartins's github stats"/></p>
+</div>
+
+<br><br>
 
 <!-- VISITAS -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amsmartins&label=Profile%20views&color=0e75b6&style=flat" alt="amsm" /> </p>
