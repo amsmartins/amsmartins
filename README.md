@@ -48,7 +48,7 @@
 
 <!--  GIF -->
 <div> 
-<p><img align="right" height="300" src="https://user-images.githubusercontent.com/89283901/169613801-728bd39e-b940-4735-926b-bab160fc426c.png"/></p>
+<p><img align="right" height="300" src="https://github.com/amsmartins/amsmartins/blob/3f9bdc0b41f8c06ad1aec570ecea3b8785c506cc/assets/ahagon-umiko_code.gif"/></p>
     
  <!-- STATS-->  
 <a href="https://github.com/amsmartins">   
