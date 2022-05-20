@@ -43,23 +43,20 @@
 <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+<br><br> 
 
-<br><br><br>
+<!-- STATS & GIF--> 
+<p align="center"><img src="https://raw.githubusercontent.com/amsmartins/amsmartins/3f9bdc0b41f8c06ad1aec570ecea3b8785c506cc/assets/ahagon-umiko_game.gif" alt="umiko-code"></>
 
-<!--  GIF -->
-<div> 
-<p><img align="right" height="300" src="https://github.com/amsmartins/amsmartins/blob/3f9bdc0b41f8c06ad1aec570ecea3b8785c506cc/assets/ahagon-umiko_code.gif"/></p>
-    
- <!-- STATS-->  
+<div align="center">
 <a href="https://github.com/amsmartins">   
-<p><img height="140em" src="https://github-readme-stats.vercel.app/api?username=amsmartins&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true" alt="amsmartins"/></p>
-<p><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsmartins&layout=compact&langs_count=7&theme=kacho_ga" alt="amsmartins" /></p>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=amsmartins&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsmartins&layout=compact&langs_count=7&theme=kacho_ga"/>
 </a></div>
+<hr>
+
     
-
-<br><br>
-
 <!-- VISITAS -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amsmartins&label=Profile%20views&color=blue&style=flat" alt="amsmartins" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=amsmartins&label=Profile%20views&color=red&style=plastic" alt="amsmartins"/></p>
 
 
