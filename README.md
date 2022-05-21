@@ -50,13 +50,14 @@
 
 <div align="center">
 <a href="https://github.com/amsmartins">   
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=amsmartins&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsmartins&layout=compact&langs_count=7&theme=kacho_ga"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=amsmartins&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsmartins&layout=compact&langs_count=7&theme=vue-dark"/>
 </a></div>
 <hr>
 
     
 <!-- VISITAS -->
-<p align="left"><img src="https://komarev.com/ghpvc/?username=amsmartins&label=Profile%20views&color=red&style=plastic" alt="amsmartins"/></p>
+<!-- ![](https://komarev.com/ghpvc/?username=amsmartins&brightgreen&style=flat-square) -->
+![Visitors](https://githubviews.tolfix.com/?id=amsmartins&green&style=social)
 
 
