@@ -20,9 +20,9 @@
 - ✔️ As tecnologias que tenho mais habilidade são **HTML, CSS** e **Javascript.**
 - 🎯 Tenho interesse em aprender: **Java, Kotlin, Flutter, C#, C, C+++, API, Angular, AWS, Unity, Desenvolvimento de Jogos**  e **Android.**
 - 🔭 Estou aprimorando meus conhecimentos em **ReactJS, Bootstrap**  e **Node.js.**
-- 🛠 No momento estou aprendendo modelagem 3D com *Fusion360* e Desenvolvimento de Projetos FABLAB pela <a href="https://www.fablabs.io/labs/fablabcaxias">**Firjan SENAI** 
+- 🛠 No momento estou aprendendo modelagem 3D com *Fusion360* e Desenvolvimento de Projetos FABLAB pela <a href="https://www.fablabs.io/labs/fablabcaxias">**Firjan SENAI** </a>
 -  🎊 Bonus: Uso personagens criados por mim no The Sims em meus projetos.
-</a>! 🌳
+
 
 <!-- SKILLS -->
 <details>
