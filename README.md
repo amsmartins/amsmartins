@@ -20,11 +20,13 @@
 - ✔️ As tecnologias que tenho mais habilidade são **HTML, CSS** e **Javascript.**
 - 🎯 Tenho interesse em aprender: **Java, Kotlin, Flutter, C#, C, C+++, API, Angular, AWS, Unity, Desenvolvimento de Jogos**  e **Android.**
 - 🔭 Estou aprimorando meus conhecimentos em **ReactJS, Bootstrap**  e **Node.js.**
-- 🛠 No momento estou aprendendo modelagem 3D com *Fusion360* e Desenvolvimento de Projetos FABLAB pela <a href="https://www.fablabs.io/labs/fablabcaxias">**Firjan SENAI** </a>! 🌳
-
+- 🛠 No momento estou aprendendo modelagem 3D com *Fusion360* e Desenvolvimento de Projetos FABLAB pela <a href="https://www.fablabs.io/labs/fablabcaxias">**Firjan SENAI** 
+-  🎊 Bonus: Uso personagens criados por mim no The Sims em meus projetos.
+</a>! 🌳
 
 <!-- SKILLS -->
-<h3>Linguagens e ferramentas que utilizo:</h3>
+<details>
+ <summary><b>Linguagens e ferramentas que utilizo:</b></summary>
 <div align="center" style="display: inline-block">
 <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,17 +44,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-<br><br> 
+</div></details>
+<br> 
 
-<!-- STATS & GIF--> 
-<p align="center"><img src="https://raw.githubusercontent.com/amsmartins/amsmartins/3f9bdc0b41f8c06ad1aec570ecea3b8785c506cc/assets/ahagon-umiko_game.gif" alt="umiko-code"></>
-
+<!-- STATS --> 
 <div align="center">
 <a href="https://github.com/amsmartins">   
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=amsmartins&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsmartins&layout=compact&langs_count=7&theme=vue-dark"/>
 </a></div>
+
+<!-- GIF -->
+<p align="center"><img width="250em" src="https://raw.githubusercontent.com/amsmartins/amsmartins/3f9bdc0b41f8c06ad1aec570ecea3b8785c506cc/assets/ahagon-umiko_game.gif" alt="umiko-code"></p>
 <hr>
 
     
