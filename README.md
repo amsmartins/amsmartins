@@ -50,13 +50,12 @@
 <!-- STATS --> 
 <div align="center">
 <a href="https://github.com/amsmartins">   
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=amsmartins&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsmartins&layout=compact&langs_count=7&theme=vue-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amsmartins&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsmartins&layout=compact&langs_count=7&theme=vue-dark"/>
 </a></div>
 
 <!-- GIF -->
-<p align="center"><img width="250em" src="https://raw.githubusercontent.com/amsmartins/amsmartins/3f9bdc0b41f8c06ad1aec570ecea3b8785c506cc/assets/ahagon-umiko_game.gif" alt="umiko-code"></p>
-<hr>
+<p align="center"><img width="400px" src="https://raw.githubusercontent.com/amsmartins/amsmartins/3f9bdc0b41f8c06ad1aec570ecea3b8785c506cc/assets/ahagon-umiko_game.gif" alt="umiko-code"></p>
 
     
 <!-- VISITAS -->
